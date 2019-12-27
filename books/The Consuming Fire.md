@@ -1,0 +1,2 @@
+# The Consuming Fire
+- The lie worked out for everyone, more or less. It was awesome for the Wus, pretty great for the rest of the noble class, and generally perfectly okay for most other folks. When a lie has negative consequences, people dislike it. But otherwise? They move on, and eventually the lie as a lie is forgotten, or in this case, codified as the foundation of religious practice and buffed and sanded into something prettier and more congenial.

@@ -1,0 +1,20 @@
+# Everybody Lies
+- Having a common core group of friends, the researchers found, is a strong predictor that a relationship will not last.
+- if you are going to try to use new data to revolutionize a field, it is best to go into a field where old methods are lousy. The
+- when trying to make predictions, you needn’t worry too much about why your models work.
+- to consider nontraditional sources of data. For
+- So what can we learn from the frequency with which words or phrases appear in books in different years? For one thing, we learn about the slow growth in popularity of sausage and the relatively recent and rapid growth in popularity of pizza.
+- No normalization though
+- A woman is unlikely to be interested when she uses hedge words and phrases such as “probably” or “I guess.” Fellas, if a woman is hedging her statements on any topic—if she “sorta” likes her drink or “kinda” feels chilly or “probably” will have another hors d’oeuvre—you can bet that she is “sorta” “kinda” “probably” not into you.
+- woman is likely to be interested when she talks about herself. It turns out that, for a man looking to connect, the most beautiful word you can hear from a woman’s mouth may be “I”: it’s a sign she is feeling comfortable. A woman also is likely to be interested if she uses self-marking phrases such as “Ya know?” and “I mean.” Why? The scientists noted that these phrases invite the listener’s attention. They are friendly and warm and suggest a person is looking to connect, ya know what I mean?
+- “Listen well. Then listen some more. And when you think you are done listening, listen some more.” That seems to be roughly similar
+- Thus it is a great sign, on a first date, if there is substantial discussion about the woman. The woman signals her comfort and probably appreciates that the man is not hogging the conversation. And the man likes that the woman is opening up. A second date is likely. Finally,
+- there are lots of questions asked on a date, it is less likely that both the man and the woman will report a connection.
+- great first date may include a single question at the end: “Will you go out with me again?” If this is the only question on the date, the answer is likely to be “Yes.”
+- The scholars utilized two websites, newslibrary.com and proquest.com,
+- Men make as many searches looking for ways to perform oral sex on themselves as they do how to give a woman an orgasm. (This is among my favorite facts in Google search data.)
+- But what is really interesting about doppelganger searches, considering their power, is not how they’re commonly being used now. It is how frequently they are not used. There are major areas of life that could be vastly improved by the kind of personalization these searches allow. Take our health, for instance.
+- And what does all of this mean for our friends back at the electronics company Levitt had worked with? It’s possible that Super Bowl ads are more cost-effective than other forms of advertising. But at the very least our study does suggest that all that Father’s Day advertising is probably a good idea.
+- And what does all of this mean for our friends back at the electronics company Levitt had worked with? It’s possible that Super Bowl ads are more cost-effective than other forms of advertising. But at the very least our study does suggest that all that Father’s Day advertising is probably a good idea.
+- These experiments demonstrate the potential of Big Data to replace guesses, conventional wisdom, and shoddy correlations with what actually works—causally.
+- You have to have some humility about your work and not fall in love with your results. You have to put these results through additional tests. For example, before you bet your life savings on Coin 391, you would want to see how it does over the next couple of years. Social scientists call this an “out-of-sample” test.

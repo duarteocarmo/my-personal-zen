@@ -1,0 +1,97 @@
+# Mans Search for Meaning
+- Since I had always been especially sorry for people who suffered from fearful dreams or deliria, I wanted to wake the poor man. Suddenly I drew back the hand which was ready to shake him, frightened at the thing I was about to do. At that moment I became intensely conscious of the fact that no dream, no matter how horrible, could be as bad as the reality of the camp which surrounded us, and to which I was about to recall him.
+- No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same.
+- They may have been few in number, but they offer suffcient proof that everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.
+- The way in which a man accepts his fate and all the suffering it entails, the way in which he takes up his cross, gives him ample opportunity—even under the most diffcult circumstances—to add a deeper meaning to his life. It may remain brave, dignified and unselfish. Or in the bitter fight for self-preservation he may forget his human dignity and become no more than an animal.
+- Everywhere man is confronted with fate, with the chance of achieving something through his own suffering.
+- “Life is like being at the dentist. You always think that the worst is still to come, and yet it is over already.”
+- It is a peculiarity of man that he can only live by looking to the future—sub
+- Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it.
+- We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly.
+- Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual.
+- (What you have experienced, no power on earth can take from you.) Not only our experiences, but all we have done, whatever
+- (What you have experienced, no power on earth can take from you.)
+- “He who has a why to live for can bear almost any how.”
+- What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal, a freely chosen task.
+- No instinct tells him what he has to do, and no tradition tells him what he ought to do; sometimes he does not even know what he wishes to do. Instead, he either wishes to do what other people do (conformism) or he does what other people wish him to do (totalitarianism).
+- “Every therapy must in some way, no matter how restricted, also be logotherapy.”
+- What matters, therefore, is not the meaning of life in general but rather the specific meaning of a person’s life at a given moment.
+- “Tell me, Master, what is the best move in the world?” There simply is no such thing as the best or even a good move apart from a particular situation in a game and the particular personality of one’s opponent.
+- Thus, everyone’s task is as unique as is his specific opportunity to implement it.
+- Ultimately, man should not ask what the meaning of his life is, but rather he must recognize that it is he who is asked.
+- Thus, logotherapy sees in responsibleness the very essence of human existence.
+- “Live as if you were living already for the second time and as if you had acted the first time as wrongly as you are about to act now!”
+- To put it figuratively, the role played by a logotherapist is that of an eye specialist rather than that of a painter. A painter tries to convey to us a picture of the world as he sees it; an ophthalmologist tries to enable us to see the world as it really is. The logotherapist’s role consists of widening and broadening the visual field of the patient so that the whole spectrum of potential meaning becomes conscious and visible to him. By declaring that man
+- To put it figuratively, the role played by a logotherapist is that of an eye specialist rather than that of a painter. A painter tries to convey to us a picture of the world as he sees it; an ophthalmologist tries to enable us to see the world as it really is. The logotherapist’s role consists of widening and broadening the visual field of the patient so that the whole spectrum of potential
+- To put it figuratively, the role played by a logotherapist is that of an eye specialist rather than that of a painter. A painter tries to convey to us a picture of the world as he sees it; an ophthalmologist tries to enable us to see the world as it really is. The logotherapist’s role consists of widening and broadening the visual field of the patient so that the whole spectrum of potential meaning becomes conscious and visible to him.
+- wish to stress that the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.
+- I wish to stress that the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.
+- According to logotherapy, we can discover this meaning in life in three dif- ferent ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering. The first, the way of achievement or accomplishment, is quite obvious. The second and third need further elaboration.
+- No one can become fully aware of the very essence of another human being unless he loves him.
+- Love is as primary a phenomenon as sex.
+- We must never forget that we may also find meaning in life even when confronted with a hopeless situation, when facing a fate that cannot be changed. For what then matters is to bear witness to the uniquely human potential at its best, which is to transform a personal tragedy into a triumph, to turn one’s predicament into a human achievement.
+- When we are no longer able to change a situation—just think of an incurable disease such as inoperable cancer—we are challenged to change ourselves.
+- no word but shook my hand and calmly left my offce. In some way, suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.
+- moment it finds a meaning, such as the meaning of a sacrifice.
+- moment it finds a meaning, such as the meaning of a sacrifice.
+- moment it finds a meaning, such as the meaning of a sacrifice.
+- In some way, suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.
+- is one of the basic tenets of logotherapy that man’s main concern is not to gain pleasure or to avoid pain but rather to see a meaning in his life. That
+- But let me make it perfectly clear that in no way is suffering necessary to find meaning. I only insist that meaning is possible even in spite of suffering—provided, certainly, that the suffering is unavoidable.
+- “he is not only unhappy, but also ashamed of being unhappy.”
+- no meaning.” The question which beset me was, “Has all this suffering, this dying around us, a meaning? For, if not, then ultimately there is no meaning to survival; for a life whose meaning depends upon such a happenstance—as whether one escapes or not—ultimately would not be worth living at all.”
+- all this suffering, this dying around us, a meaning? For, if not, then ultimately there is no meaning to survival; for a life whose meaning depends upon such a
+- “Has all this suffering, this dying around us, a meaning? For, if not, then ultimately there is no meaning to survival; for a life whose meaning depends upon such a happenstance—as whether one escapes or not—ultimately would not be worth living at all.”
+- “And what about man? Are you sure that the human world is a terminal point in the evolution of the cosmos? Is it not conceivable that there is still another dimension, a world beyond man’s world; a world in which the question of an ultimate meaning of human suffering would find an answer?”
+- On the other hand, the person who attacks the problems of life actively is like a man who removes each successive leaf from his calendar and files it neatly and carefully away with its predecessors, after first having jotted down a few diary notes on the back.
+- On the other hand, the person who attacks the problems of life actively is like a man who removes each successive leaf from his calendar and files it neatly and carefully away with its predecessors, after first having jotted down a few diary notes on the back. He can reflect with pride and joy on all the richness set down in these notes, on all the life he has already lived to the fullest. What will it matter to him if he notices that he is growing old? Has he any reason to envy the young people whom he sees, or wax nostalgic over his own lost youth? What reasons has he to envy a young person? For the possibilities that a young person has, the future which is in store for him? “No, thank you,” he will think. “Instead of possibilities, I have realities in my past, not only the reality of work done and of love loved, but of sufferings bravely suffered. These sufferings are even the things of which I am most proud, though these are things which cannot inspire envy.”
+- On the other hand, the person who attacks the problems of life actively is like a man who removes each successive leaf from his calendar and files it neatly and carefully away with its predecessors, after first having jotted down a few diary notes on the back. He can reflect with pride and joy on all the richness set down in these notes, on all the life he has already lived to the fullest. What will it matter to him if he notices that he is growing old? Has he any reason to envy the young people whom he sees, or wax nostalgic over his own lost youth? What reasons has he to envy a young person? For the possibilities that a young person has, the future which is in store for him? “No, thank you,” he will think. “Instead of possibilities, I have realities in my past, not only the reality of work done and of love loved, but of sufferings bravely suffered. These sufferings are even the things of which I am most proud, though these are things which cannot inspire envy.”
+- “The wish is father to the thought” to “The fear is mother of the event.”
+- This excessive intention, or “hyper-intention,” as I call it, can be observed particularly in cases of sexual neurosis. The more a man tries to demonstrate his sexual potency
+- This excessive intention, or “hyper-intention,” as I call it, can be observed particularly in cases of sexual neurosis.
+- The more a man tries to demonstrate his sexual potency or a woman her ability to experience orgasm, the less they are able to succeed. Pleasure is, and must remain, a side-effect or by-product, and is destroyed and spoiled to the degree to which it is made a goal in itself.
+- When her attention was refocused toward the proper object, i.e., the partner, orgasm established itself spontaneously.
+- physician consulted me because of his fear of perspiring. Whenever he expected an outbreak of perspiration, this
+- The reader will note that this procedure consists of a reversal of the patient’s attitude, inasmuch as his fear is replaced by a paradoxical wish.
+- W. Allport’s book, The Individual and His Religion: “The neu- rotic who learns to laugh at himself may be on the way to self-management, perhaps to cure.”
+- and instead tries to ridicule them by dealing with them in
+- as soon as the patient stops fighting his obsessions and instead tries to ridicule them by dealing with them in an ironical way—by applying paradoxical intention—the vicious circle is cut, the symptom diminishes and finally atrophies.
+- hyper-intention as well as hyper- reflection have to be counteracted by dereflection;
+- dereflection, however, ultimately is not possible except by the patient’s orientation toward his specific vocation and mission in life.16
+- “As a professor in two fields, neurology and psychiatry, I am fully aware of the extent to which man is subject to biological, psychological and sociological conditions. But in addition to being a professor in two fields I am a survivor of four camps —concentration camps, that is—and as such I also bear witness to the unexpected extent to which man is capable of defying and braving even the worst conditions conceivable.”17
+- How can we dare to predict the behavior of man? We may predict the movements of a machine, of an automaton; more than this, we may even try to predict the mechanisms or “dynamisms” of the human psyche as well. But man is more than psyche.
+- In the concentration camps, for example, in this living laboratory and on this testing ground, we watched and witnessed some of our comrades behave like swine while others behaved like saints. Man has both potentialities within himself; which one is actualized depends on decisions but not on conditions.
+- How is it possible to say yes to life in spite of all that?
+- (1) turning suffering into a human achievement and accomplishment; (2) deriving from guilt the opportunity to change oneself for the better; and (3) deriving from life’s transitoriness an incentive to take responsible action.
+- In logotherapy, such a behavior pattern is called “hyper-intention.” It plays an important role in the causation of sexual neurosis, be it frigidity or impotence. The more a patient, instead of forgetting himself through giving himself, directly strives for orgasm, i.e., sexual pleasure, the more this pur- suit of sexual pleasure becomes self-defeating. Indeed, what is called “the pleasure principle” is, rather, a fun-spoiler.
+- “Of forty consecutive patients applying for therapy at a psychiatric outpatient clinic … twelve (30 percent) had some major problem involving meaning (as adjudged from self-ratings, therapists, or independent judges).”
+- being jobless was equated with being useless, and being useless was equated with having a meaningless life.
+- 90 percent of the alcoholics she studied had suffered from an abysmal feeling of meaninglessness. Of the drug addicts studied by Stanley Krippner,
+- 90 percent of the alcoholics she studied had suffered from an abysmal feeling of meaninglessness. Of the drug addicts studied by Stanley Krippner, 100 percent believed that “things seemed meaningless.”4
+- To invoke an analogy, consider a movie: it consists of thousands upon thousands of individual pictures, and each of them makes sense and carries a meaning, yet the meaning of the whole film cannot be seen before its last sequence is shown. However, we cannot understand the whole film without having first understood each of its components, each of the individual pictures. Isn’t it the same with life? Doesn’t the final meaning of life, too, reveal itself, if at all, only at its end, on the verge of death? And doesn’t this final meaning, too, depend on whether or not the potential meaning of each single situation has been actualized to the best of the respective individual’s knowledge and belief?
+- “All we can do is study the lives of people who seem to have found their answers to the questions of what ultimately human life is about as against those who have not.”
+- In any case, if a pre- reflective axiological self-understanding exists, we may assume that it is ultimately anchored in our biological heritage. As logotherapy teaches, there are three main
+- In any case, if a pre- reflective axiological self-understanding exists, we may assume that it is ultimately anchored in our biological heritage.
+- The first is by creating a work or by doing a deed. The second is by experiencing something or encountering someone; in other words, meaning can be found not only in work but also in love.
+- even the helpless victim of a hopeless situation, facing a fate he cannot change, may rise above himself, may grow beyond himself, and by so doing change himself.
+- even the helpless victim of a hopeless situation, facing a fate he cannot change, may rise above himself, may grow beyond himself, and by so doing change himself. He may turn a personal tragedy into a triumph.
+- “he is not only unhappy, but also ashamed of being unhappy.”
+- view my life as being abundant with meaning and purpose. The attitude that I adopted on that fateful day has become my personal credo for life: I broke my neck, it didn’t break me.
+- Is this to say that suffering is indispensable to the discovery of meaning? In no way. I only insist that meaning is available in spite of—nay, even through—suffering, provided, as noted in Part Two of this book, that the suffering is unavoidable.
+- he can still choose his attitude.
+- Austrian public-opinion pollsters recently reported that those held in highest esteem by most of the people interviewed are neither the great artists nor the great scientists, neither the great statesmen nor the great sports figures, but those who master a hard lot with their heads held high.
+- “How can you still write some of your books in German, Adolf Hitler’s language?” In response, I asked her if she had knives in her kitchen, and when she answered that she did, I acted dismayed and shocked, exclaiming, “How can you still use knives after so many killers have used them to stab and murder their victims?” She stopped objecting to my writing books in German.
+- Live as if you were living for the second time and had acted as wrongly the first time as you are about to act now.
+- From this one may see that there is no reason to pity old people. Instead, young people should envy them. It is true that the old have no opportunities, no possibilities in the future. But they have more than that. Instead of possibilities in the future, they have realities in the past—the potentialities they have actualized, the meanings they have fulfilled, the values they have realized—and nothing and nobody can ever remove these assets from the past.
+- “George, you must realize that the world is a joke. There is no justice, everything is random. Only when you realize this will you understand how silly it is to take yourself seriously. There is no grand purpose in the universe. It just is. There’s no particular meaning in what decision you make today about how to act.”
+- swine and the saints.
+- For the world is in a bad state, but everything will become still worse unless each of us does his best.
+- Since Auschwitz we know what man is capable of. And since Hiroshima we know what is at stake.
+- that “It is we ourselves who must answer the questions that life asks of us, and to these questions we can respond only by being responsible for our existence.”
+- “It is we ourselves who must answer the questions that life asks of us, and to these questions we can respond only by being responsible for our existence.”
+- Most important, he realized that, no matter what happened, he retained the freedom to choose how to respond to his suffering.
+- “meaning is possible in spite of suffering.”
+- “but man is ultimately self determining. What he becomes—within the limits of endowment and environment—he has made out of himself.”
+- Frankl felt an intense connection to Vienna, especially to psychiatric patients who needed his help in the postwar period. He also believed strongly in reconciliation
+- His goal was to provoke people into realizing that they could and should exercise their capacity for choice to achieve their own goals.
+- “The meaning of your life is to help others find the meaning of theirs.”
