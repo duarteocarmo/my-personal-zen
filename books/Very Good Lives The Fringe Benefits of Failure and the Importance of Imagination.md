@@ -1,0 +1,12 @@
+# Very Good Lives The Fringe Benefits of Failure and the Importance of Imagination
+- Poverty entails fear, and stress, and sometimes depression; it means a thousand petty humil- iations and hardships. Climb- ing out of poverty by your own efforts—that is something on which to pride yourself, but poverty itself is roman- ticized only by fools.
+- However, the fact that you are graduating from Harvard suggests that you are not very well acquainted with failure. You might be driven by a fear of failure quite as much as a desire for success. Indeed, your conception of failure might not be too far removed from the average person’s idea of success, so high have you already flown.
+- And so rock bottom became the solid foun- dation on which I rebuilt my life.
+- It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case, you fail by default.
+- that personal happiness lies in knowing that life is not a checklist of acquisition or achievement.
+- Life is difficult, and complicated, and beyond any- one’s total control, and the humil- ity to know that will enable you to survive its vicissitudes.
+- Though I personally will defend the value of bedtime stories to my last gasp, I have learned to value imagination in a much broader sense. Imagination is not only the uniquely human capacity to envision that which is not, and therefore the fount of all invention and innovation; in its arguably most transformative and revelatory capa- city, it is the power that enables us to empathize with humans whose experiences we have never shared.
+- “What we achieve inwardly will change outer reality.”
+- That is an astonishing statement, and yet proven a thousand times every day of our lives. It expresses, in part, our inescapable connection with the outside world, the fact that we touch other people’s lives simply by existing.
+- you choose to identify not only with the powerful but with the powerless; if you
+- “As is a tale, so is life: not how long it is, but how good it is, is what matters.”
