@@ -29,7 +29,7 @@ class Book:
         clean_title = "".join(
             [c for c in self.title if c.isalpha() or c.isdigit() or c == " "]
         ).rstrip()
-        with open(f"{clean_title}.md", "w+") as file:
+        with open(f"books/{clean_title}.md", "w+") as file:
             file.write(f"# {clean_title}")
             file.write("\n")
             for h in self.highlights:
@@ -44,11 +44,9 @@ class Highlight:
     total_highlights = 0
 
     def __init__(self, raw_string):
-        (
-            self.title,
-            self.author,
-            self.content,
-        ) = Highlight.parse_single_highlight(raw_string)
+        (self.title, self.author, self.content,) = Highlight.parse_single_highlight(
+            raw_string
+        )
 
     def __str__(self):
         return f"<Highlight Object> Title:{self.title}\tAuthor:{self.author}\tContent:{self.content}"
@@ -70,9 +68,7 @@ class Highlight:
 
 
 current_directory = pathlib.Path.cwd()
-parsed_books = list(
-    set(file.stem for file in current_directory.glob("**/*.md"))
-)
+parsed_books = list(set(file.stem for file in current_directory.glob("**/*.md")))
 highlight_separator = "=========="
 highlight_json = dict()
 library = []
