@@ -1,3 +1,2 @@
 # The Collapsing Empire
-
-- Lagos was busily fucking the brains out of the assistant purser
+- Then he turned off his tablet, sealed up his bunk, and spent a few minutes in the uncomfortably close dark, having the first twinges of homesickness.
