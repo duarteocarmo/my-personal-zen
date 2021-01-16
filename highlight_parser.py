@@ -4,6 +4,16 @@
 # Use it, and abuse it.
 import re
 import pathlib
+import datetime
+
+current_directory = pathlib.Path.cwd()
+parsed_books = list(
+    set(file.stem for file in current_directory.glob("**/*.md"))
+)
+highlight_separator = "=========="
+highlight_json = dict()
+library = []
+ADD_DATES = False
 
 
 class Book:
@@ -44,34 +54,43 @@ class Highlight:
     total_highlights = 0
 
     def __init__(self, raw_string):
-        (self.title, self.author, self.content,) = Highlight.parse_single_highlight(
-            raw_string
-        )
+        (
+            self.title,
+            self.author,
+            self.content,
+        ) = Highlight.parse_single_highlight(raw_string)
 
     def __str__(self):
         return f"<Highlight Object> Title:{self.title}\tAuthor:{self.author}\tContent:{self.content}"
 
     @staticmethod
     def parse_single_highlight(highlight_string):
-        splitted_string = highlight_string.split("\n")
-        author_line = splitted_string[1]
-        content = splitted_string[-2]
+        splitted_string = list(filter(None, highlight_string.split("\n")))
+
+        if len(splitted_string) != 3:
+            return None, None, None
+
+        # first parse
+        author_line = splitted_string[0]
+        content = splitted_string[-1]
+        info_line = splitted_string[-2]
+
+        # parse author and title
         regex = r"\((.*?)\)"
         match = re.search("\((.*)\)", author_line)
 
-        if match:
-            author = match.group(1)
-            title = author_line[: match.start()]
-            return title, author, content
+        if not match:
+            return None, None, None
 
-        return None, None, None
+        author = match.group(1)
+        title = author_line[: match.start()]
 
+        # parse date
+        if ADD_DATES:
+            date = info_line.split("|")[-1][10:]
+            content = f"(Added on {date}) {content}"
 
-current_directory = pathlib.Path.cwd()
-parsed_books = list(set(file.stem for file in current_directory.glob("**/*.md")))
-highlight_separator = "=========="
-highlight_json = dict()
-library = []
+        return title, author, content
 
 
 with open("My Clippings.txt", "r") as file:
