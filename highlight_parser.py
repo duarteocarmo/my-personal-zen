@@ -7,7 +7,9 @@ import pathlib
 import datetime
 
 current_directory = pathlib.Path.cwd()
-parsed_books = list()
+parsed_books = list(
+    set(file.stem for file in current_directory.glob("**/*.md"))
+)
 highlight_separator = "=========="
 highlight_json = dict()
 library = []
