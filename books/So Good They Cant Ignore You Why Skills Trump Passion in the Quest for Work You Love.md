@@ -1,0 +1,29 @@
+# So Good They Cant Ignore You Why Skills Trump Passion in the Quest for Work You Love
+- The narratives in this book are bound by a common thread: the importance of ability. The things that make a great job great, I discovered, are rare and valuable. If you want them in your working life, you need something rare and valuable to offer in return. In other words, you need to be good at something before you can expect a good job.
+- Compelling careers often have complex origins that reject the simple idea that all you have to do is follow your passion.
+- In other words, the more experience an assistant had, the more likely she was to love her work.
+- psychological needs—factors described as the “nutriments” required to feel intrinsically motivated for your work: Autonomy: the feeling that you have control over your day, and that your actions are important Competence: the feeling that you are good at what you do Relatedness: the feeling of connection to other people
+- SDT tells us that motivation, in the workplace or elsewhere, requires that you fulfill three basic psychological needs—factors described as the “nutriments” required to feel intrinsically motivated for your work: Autonomy: the feeling that you have control over your day, and that your actions are important Competence: the feeling that you are good at what you do Relatedness: the feeling of connection to other people
+- The more we focused on loving what we do, the less we ended up loving it.
+- The passion hypothesis is not just wrong, it’s also dangerous. Telling
+- “Nobody ever takes note of [my advice], because it’s not the answer they wanted to hear,” Martin said. “What they want to hear is ‘Here’s how you get an agent, here’s how you write a script,’… but I always say, ‘Be so good they can’t ignore you.’
+- you’re not focusing on becoming so good they can’t ignore you, you’re going to be left behind. This clarity was refreshing.
+- To simplify things going forward, I’ll call this output-centric approach to work the craftsman mindset. My goal in Rule #2 is to convince you of an idea that became clearer to me the more time I spent studying performers such as Tice: Irrespective of what type of work you do, the craftsman mindset is crucial for building a career you love. Before we get ahead of ourselves, however, I want to take a moment to contrast this mindset with the way most of us are used to thinking about our livelihood.
+- Whereas the craftsman mindset focuses on what you can offer the world, the passion mindset focuses instead on what the world can offer you. This mindset is how most people approach their working lives.
+- The craftsman mindset offers clarity, while the passion mindset offers a swamp of ambiguous and unanswerable questions.
+- No one owes you a great career, it argues; you need to earn it—and the process won’t be easy.
+- That is, regardless of what you do
+- That is, regardless of what you do for a living, approach your work like a true performer.
+- Jordan had a name for the worries about what his friends are doing with their lives and whether his accomplishments compare favorably: “the cloud of external distractions.”
+- regardless of how you feel about your job right now, adopting the craftsman mindset will be the foundation on which you’ll build a compelling career.
+- “All of us who do creative work… you get into this thing, and there’s like a ‘gap.’ What you’re making isn’t so good, okay?… It’s trying to be good but… it’s just not that great,” he explained in an interview about his career.1 “The key thing is to force yourself through the work, force the skills to come; that’s the hardest phase,”
+- The more you read about Glass, the more you encounter a young man who was driven to develop his skills until they were too valuable to be ignored. This strategy worked.
+- The more you read about Glass, the more you encounter a young man who was driven to develop his skills until they were too valuable to be ignored.
+- Glass exchanged a collection of hard-won, rare, and valuable skills for his fantastic
+- Glass exchanged a collection of hard-won, rare, and valuable skills for his fantastic job.
+- traits that define great work require that you have something rare and valuable to offer in return—skills I call career capital.
+- there is, I must admit, a darker corollary to this argument. The passion mindset is not just ineffective for creating work you love; in many cases it can actively work against this goal, sometimes with devastating consequences.
+- Duffy’s commitment to craftsmanship that was the obvious winner.
+- THREE DISQUALIFIERS FOR APPLYING THE CRAFTSMAN MINDSET The job presents few opportunities to distinguish yourself by developing relevant skills that are rare and valuable. The job focuses on something you think is useless or perhaps even actively bad for the world. The job forces you to work with people you really dislike.
+- THREE DISQUALIFIERS FOR APPLYING THE CRAFTSMAN MINDSET The job presents few opportunities to distinguish yourself by developing relevant skills that are rare and valuable. The job focuses on something you think is useless or perhaps even actively bad for the world. The job forces you to work with people you really dislike.7
+- Now that I’ve made my pitch for the craftsman mindset, and moderated it with the exceptions listed above, it’s time to see it in action.

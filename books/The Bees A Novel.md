@@ -1,0 +1,3 @@
+# The Bees A Novel
+- sorry. Now is not the right time.” “Oh!” She put her phone away. “Have you—changed your mind?” He shook his head. “No. I’ll sell . . .” He cleared his throat. “But not yet. It feels wrong.” “Of course.” She hesitated. “I suppose it’s very hard to know approximately . . . ?” “Could be months. Could be tomorrow.” The woman allowed
+- bit until there was a jagged hole into fresher air beyond. She dragged her body through and fell out onto the floor of an alien world. Static roared through her brain, thunderous vibrations shook the ground, and a thousand scents dazed her mind. All she could do was breathe until gradually the vibration and static subsided and the scent evaporated into the air. Her rigid body unlocked and she calmed as knowledge filled

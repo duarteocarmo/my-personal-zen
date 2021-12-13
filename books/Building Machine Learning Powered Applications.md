@@ -1,0 +1,3 @@
+# Building Machine Learning Powered Applications
+- Alternatively, you can train a “labeling model” to find the best examples to label next. Let’s say you have a million examples, of which you’ve labeled only 1,000. You can create a training set of 1,000 randomly sampled labeled images, and 1,000 unlabeled, and train a binary classifier to predict which images you have labeled. You can then use this labeling model to identify data points that are most different from what you’ve already labeled and label those.
+- In addition to the loss, visualizing weight values and activations can help you identify if a network is not learning properly. In Figure 6-9, you can see a change in the distribution of the weights as training progresses.

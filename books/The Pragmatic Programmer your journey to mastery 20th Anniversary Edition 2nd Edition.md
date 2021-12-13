@@ -28,3 +28,4 @@
 - DRY IS MORE THAN CODE Let’s get something out of the way up-front. In the first edition of this book we did a poor job of explaining just what we meant by Don’t Repeat Yourself. Many people took it to refer to code only: they thought that DRY means “don’t copy-and-paste lines of source.” That is part of DRY,
 - Let’s get something out of the way up-front. In the first edition of this book we did a poor job of explaining just what we meant by Don’t Repeat Yourself. Many people took it to refer to code only: they thought that DRY means “don’t copy-and-paste lines of source.” That is part of DRY, but it’s a tiny and fairly trivial part. DRY is about the duplication of knowledge, of intent. It’s about expressing the same thing in two different places, possibly in two totally different ways.
 - The name says what it does, and if someone needs details, they’re laid out in the source. That’s DRY!
+- “you can change your organization or change your organization.”
