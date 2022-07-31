@@ -1,0 +1,2 @@
+# The Anthropocene Reviewed
+- something commensurate to my capacity for wonder. Marveling at the perfection of that leaf, I was reminded that aesthetic beauty is as much about how and whether you look as what you see. From the quark to the supernova, the wonders do not cease. It is our attentiveness that is in short supply, our ability and willingness to do the work that awe requires. Still, I’m fond of our capacity for wonder. I give it three and a half stars.

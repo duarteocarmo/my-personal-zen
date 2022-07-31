@@ -1,29 +1,74 @@
 # So Good They Cant Ignore You Why Skills Trump Passion in the Quest for Work You Love
-- The narratives in this book are bound by a common thread: the importance of ability. The things that make a great job great, I discovered, are rare and valuable. If you want them in your working life, you need something rare and valuable to offer in return. In other words, you need to be good at something before you can expect a good job.
-- Compelling careers often have complex origins that reject the simple idea that all you have to do is follow your passion.
-- In other words, the more experience an assistant had, the more likely she was to love her work.
-- psychological needs—factors described as the “nutriments” required to feel intrinsically motivated for your work: Autonomy: the feeling that you have control over your day, and that your actions are important Competence: the feeling that you are good at what you do Relatedness: the feeling of connection to other people
-- SDT tells us that motivation, in the workplace or elsewhere, requires that you fulfill three basic psychological needs—factors described as the “nutriments” required to feel intrinsically motivated for your work: Autonomy: the feeling that you have control over your day, and that your actions are important Competence: the feeling that you are good at what you do Relatedness: the feeling of connection to other people
-- The more we focused on loving what we do, the less we ended up loving it.
-- The passion hypothesis is not just wrong, it’s also dangerous. Telling
-- “Nobody ever takes note of [my advice], because it’s not the answer they wanted to hear,” Martin said. “What they want to hear is ‘Here’s how you get an agent, here’s how you write a script,’… but I always say, ‘Be so good they can’t ignore you.’
-- you’re not focusing on becoming so good they can’t ignore you, you’re going to be left behind. This clarity was refreshing.
-- To simplify things going forward, I’ll call this output-centric approach to work the craftsman mindset. My goal in Rule #2 is to convince you of an idea that became clearer to me the more time I spent studying performers such as Tice: Irrespective of what type of work you do, the craftsman mindset is crucial for building a career you love. Before we get ahead of ourselves, however, I want to take a moment to contrast this mindset with the way most of us are used to thinking about our livelihood.
-- Whereas the craftsman mindset focuses on what you can offer the world, the passion mindset focuses instead on what the world can offer you. This mindset is how most people approach their working lives.
-- The craftsman mindset offers clarity, while the passion mindset offers a swamp of ambiguous and unanswerable questions.
-- No one owes you a great career, it argues; you need to earn it—and the process won’t be easy.
-- That is, regardless of what you do
-- That is, regardless of what you do for a living, approach your work like a true performer.
-- Jordan had a name for the worries about what his friends are doing with their lives and whether his accomplishments compare favorably: “the cloud of external distractions.”
-- regardless of how you feel about your job right now, adopting the craftsman mindset will be the foundation on which you’ll build a compelling career.
-- “All of us who do creative work… you get into this thing, and there’s like a ‘gap.’ What you’re making isn’t so good, okay?… It’s trying to be good but… it’s just not that great,” he explained in an interview about his career.1 “The key thing is to force yourself through the work, force the skills to come; that’s the hardest phase,”
-- The more you read about Glass, the more you encounter a young man who was driven to develop his skills until they were too valuable to be ignored. This strategy worked.
-- The more you read about Glass, the more you encounter a young man who was driven to develop his skills until they were too valuable to be ignored.
-- Glass exchanged a collection of hard-won, rare, and valuable skills for his fantastic
-- Glass exchanged a collection of hard-won, rare, and valuable skills for his fantastic job.
-- traits that define great work require that you have something rare and valuable to offer in return—skills I call career capital.
-- there is, I must admit, a darker corollary to this argument. The passion mindset is not just ineffective for creating work you love; in many cases it can actively work against this goal, sometimes with devastating consequences.
-- Duffy’s commitment to craftsmanship that was the obvious winner.
-- THREE DISQUALIFIERS FOR APPLYING THE CRAFTSMAN MINDSET The job presents few opportunities to distinguish yourself by developing relevant skills that are rare and valuable. The job focuses on something you think is useless or perhaps even actively bad for the world. The job forces you to work with people you really dislike.
-- THREE DISQUALIFIERS FOR APPLYING THE CRAFTSMAN MINDSET The job presents few opportunities to distinguish yourself by developing relevant skills that are rare and valuable. The job focuses on something you think is useless or perhaps even actively bad for the world. The job forces you to work with people you really dislike.7
-- Now that I’ve made my pitch for the craftsman mindset, and moderated it with the exceptions listed above, it’s time to see it in action.
+- There’s a mental strain that accompanies feeling your way though a tune that’s not ingrained in muscle memory, and I hated that feeling.
+- Not only did Jordan’s early practice require him to constantly stretch himself beyond what was comfortable, but it was also accompanied by instant feedback. The teacher was always there, Jordan explained, “to jump in and show me if I junked up a harmony.”
+- The researchers discovered that the players who became grand masters spent five times more hours dedicated to serious study than those who plateaued at an intermediate level. The grand masters, on average, dedicated around 5,000 hours out of their 10,000 to serious study. The intermediate players, by contrast, dedicated only around 1,000 to this activity.
+- In Outliers he notes that he spent ten years honing his craft in the Washington Post newsroom before he moved to the New Yorker and began writing his breakout book, The Tipping Point.
+- It is a lifetime accumulation of deliberate practice that again and again ends up explaining excellence.
+- “Most individuals who start as active professionals… change their behavior and increase their performance for a limited time until they reach an acceptable level. Beyond this point, however, further improvements appear to be unpredictable and the number of years of work… is a poor predictor of attained performance.”
+- you just show up and work hard, you’ll soon hit a performance plateau beyond which you fail to get any better.
+- if you just show up and work hard, you’ll soon hit a performance plateau beyond which you fail to get any better.
+- deliberate practice might provide the key to quickly becoming so good they can’t ignore you.
+- Alex consistently chose projects where he’d be forced to show his work to others.
+- story. In each stage of his path to becoming a venture capitalist he threw himself into a project beyond his current capabilities and then hustled to make it a success.
+- When you look at Mike’s spreadsheet, you also notice that he restricts the hours dedicated to required tasks that don’t ultimately make him better at what he does (eighteen hours).
+- At the end of every week he prints his numbers to see how well he achieved this goal,
+- The only capital that matters is whether or not your posts compel the reader.
+- They inspire their readers.
+- focusing instead on saying something people really care about—which is where your energy should be if you want to succeed.
+- Doing things we know how to do well is enjoyable, and that’s exactly the opposite of what deliberate practice demands…. Deliberate practice is above all an effort of focus and concentration. That is what makes it “deliberate,” as distinct from the mindless playing of scales or hitting of tennis balls that most people engage in.
+- If you show up and do what you’re told, you will, as Anders Ericsson explained earlier in this chapter, reach an “acceptable level” of ability before plateauing. The good news about deliberate practice is that it will push you past this plateau and into a realm where you have little competition. The bad news is that the reason so few people accomplish this feat is exactly because of the trait Colvin warned us about: Deliberate practice is often the opposite of enjoyable.
+- But this stretching, as any mathematician will also admit, is the precondition to getting better.
+- If you’re not uncomfortable, then you’re probably stuck at an “acceptable level.”
+- Without this patient willingness to reject shiny new pursuits, you’ll derail your efforts before you acquire the capital you need.
+- “Hey, I’ve become pretty good, and people are starting to notice.”
+- This is great news for knowledge workers: If you can introduce this strategy into your working life you can vault past your peers in your acquisition of career capital.
+- But once he got going on his farming strategies, explaining the difference between Merrimack sandy loam and Paxton silt loam, for example, or his new weeding strategy for the carrot beds, his shyness
+- But once he got going on his farming strategies, explaining the difference between Merrimack sandy loam and Paxton silt loam, for example, or his new weeding strategy for the carrot beds, his shyness
+- But once he got going on his farming strategies, explaining the difference between Merrimack sandy loam and Paxton silt loam, for example, or his new weeding strategy for the carrot beds, his shyness gave way to the enthusiasm of a craftsman who knows what he’s doing and has been given the privilege to put this knowledge to work.
+- dream-job elixir.
+- Ryan and Sarah have heaps of control in their working lives, and this is what makes the Red Fire lifestyle so appealing. The appeal of control, however, is not limited to farmers.
+- more control leads to better grades, better sports performance, better productivity, and more happiness.
+- Giving people more control over what they do and how they do it increases their happiness, engagement, and sense of fulfillment.
+- To summarize, if your goal is to love what you do, your first step is to acquire career capital.
+- It’s really hard to convince people to give you money.
+- Like Jane, she went after more control without the capital to back it up. Also like Jane, this path soon veered in
+- Like Jane, she went after more control without the capital to back it up. Also like Jane, this path soon veered in a difficult direction: Within a year, Feuer was on food stamps.
+- giving readers content they’re willing to pay
+- giving readers content they’re willing to pay for.
+- “People tell me that I don’t do things the way other people do,” Lulu said. “But I tell them, ‘I’m not other people.’ ” She succeeded
+- “People tell me that I don’t do things the way other people do,” Lulu said. “But I tell them, ‘I’m not other people.’ ”
+- as I was just a contractor.” I interviewed Lulu early on a weekday afternoon, and the timing didn’t seem to matter at all. “Hold on, let me make sure Skype is turned off so no one can bother me,” she told me soon after I arrived. Taking an afternoon off on a whim to do an interview is not the type of decision she could have gotten away with if she had followed a traditional career path to become a stock-owning, Porsche-driving, ulcer-suffering VP. But then again, stock-owning, Porsche-driving, ulcer-suffering VPs probably enjoy their lives quite a bit less than Lulu.
+- Taking an afternoon off on a whim to do an interview is not the type of decision she could have gotten away with if she had followed a traditional career path to become a stock-owning, Porsche-driving, ulcer-suffering VP. But then again, stock-owning, Porsche-driving, ulcer-suffering VPs probably enjoy their lives quite a bit less than Lulu.
+- In other words, in most jobs you should expect your employer to resist your move toward more control; they have every incentive to try to convince you to reinvest your career capital back into your career at their company, obtaining more money and prestige instead of more control, and this can be a hard argument to resist.
+- to know when the time is right to become courageous in your career decisions.
+- Throughout Derek’s career, however, there always ended up being a second dancer who validated his decision, and then eventually a crowd arrived, defining the move as successful.
+- everywhere in America, and for me, a big scary thing was living outside the
+- “I follow a rule with my life that if something is scary, do it. I’ve lived everywhere in America, and for me, a big scary thing was living outside the country.”
+- have this principle about money that overrides my other life rules,” he said. “Do what people are willing to pay for.”
+- “I have this principle about money that overrides my other life rules,” he said. “Do what people are willing to pay for.”
+- By aiming to make money, you’re aiming to be valuable.”
+- but given his mental algorithm on only doing what people are paying for,
+- but given his mental algorithm on only doing what people are paying for, they now also seem much less risky.
+- The Law of Financial Viability When deciding whether to follow an appealing pursuit that will introduce more control into your work life, seek evidence of whether people are willing to pay for it. If you find this evidence, continue. If not, move
+- The Law of Financial Viability When deciding whether to follow an appealing pursuit that will introduce more control into your work life, seek evidence of whether people are willing to pay for it. If you find this evidence, continue. If not, move
+- The Law of Financial Viability When deciding whether to follow an appealing pursuit that will introduce more control into your work life, seek evidence of whether people are willing to pay for it. If you find this evidence, continue. If not, move on.
+- “Do what people are willing to pay for.” This isn’t about making money (Derek, for example, is more or less indifferent to money, having given away to charity the millions he made from selling his first company). Instead, it’s about using money as a “neutral indicator of value”—a way of determining whether or not you have enough career capital to succeed with a pursuit. I called this the law of financial viability,
+- have a mission is to have a unifying focus for
+- To have a mission is to have a unifying focus for your career.
+- What should I do with my life?
+- their careers truly matter
+- Hardness scares off the daydreamers and the timid, leaving more opportunity for those like us who are willing to take the time to carefully work out the best path forward and then confidently take action.
+- A good career mission is similar to a scientific breakthrough—it’s an innovation waiting to be discovered in the adjacent possible of your field.
+- Advancing to the cutting edge in a field is an act of “small” thinking, requiring you to focus on a narrow collection of subjects for a potentially long
+- Advancing to the cutting edge in a field is an act of “small” thinking, requiring you to focus on a narrow collection of subjects for a potentially long time.
+- small and achievable
+- Here we discovered the importance of little bets. To maximize your chances of success, you should deploy small, concrete experiments that return concrete feedback. For Chris Rock, such a bet might include telling a joke to an audience and seeing if they laugh, whereas for Kirk, it might mean producing sample footage for a documentary and seeing if it attracts funding.
+- He approached the task of finding good projects for his mission with the mindset of a marketer, systematically studying books on the subject to help identify why some ideas catch on while others fall flat.
+- Remarkable marketing is the art of building things worth noticing.”
+- For a mission-driven project to succeed, it should be remarkable in two different ways. First, it must compel people who encounter it to remark about it to others. Second, it must be launched in a venue that supports such remarking.
+- The core idea of this book is simple: To construct work you love, you must first build career capital by mastering rare and valuable skills, and then cash in this capital for the type of traits that define compelling careers. Mission is one of those traits.
+- I argued that the best ideas for missions are found in the adjacent possible—the region just beyond the current cutting edge.
+- In sum, mission is one of the most important traits you can acquire with your career capital. But adding this trait to your working life is not simple. Once you have the capital to identify a good mission, you must still work to make it succeed. By using little bets and the law of remarkability, you greatly increase your chances of finding ways to transform your mission from a compelling idea into a compelling career.
+- Once a week I require myself to summarize in my “bible” a paper I think might be relevant to my research. This summary must include a description of the result, how it compares to previous work, and the main strategies used to obtain it. These summaries are less involved than the step-by-step deconstruction I did on my original test-case paper—which is what allows me to do them on a weekly basis—but they still induce the strain of deliberate practice.
+- Working right trumps finding the right work.
+- Instead, master rare and valuable skills. Once you build up the career capital that these skills generate, invest it wisely. Use it to acquire control over what you do and how you do it, and to identify and act on a life-changing mission. This philosophy is less sexy than the fantasy of dropping everything to go live among the monks in the mountains, but it’s also a philosophy that has been shown time and again to actually work. So next time you start to question whether you’re missing out on some dream job waiting for you to muster the courage to pursue it, conjure up a pair of images. First, recall passion-obsessed Thomas, heartbroken and sobbing on the forest floor. Then replace this with the image of the smiling, confident, value-focused man who ten years later joined me for coffee—the version of Thomas who looked at me at one point in our conversation and remarked, without irony, “Life is good.”
