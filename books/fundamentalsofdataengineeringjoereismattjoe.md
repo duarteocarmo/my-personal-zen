@@ -1,0 +1,4 @@
+# fundamentalsofdataengineeringjoereismattjoe
+- How do you keep your skills sharp in a rapidly changing field like data engineering? Should you focus on the latest tools or deep dive into fundamentals? Here’s our advice: focus on the fundamentals to understand what’s not going to change; pay attention to ongoing developments to know where the field is going. New paradigms and practices are introduced all the time, and it’s incumbent on you to stay current. Strive to understand how new technologies will be helpful in the lifecycle.
+- Companies don’t hire engineers simply to hack on code in isolation. To be worthy of their title, engineers should develop a deep understanding of the problems they’re tasked with solving, the technology tools at their disposal, and the people they work with and serve.
+- soon. Immutable technologies benefit from the Lindy effect: the longer a technology has been established, the longer it will be used.
