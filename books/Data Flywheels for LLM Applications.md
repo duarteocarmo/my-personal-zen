@@ -1,0 +1,2 @@
+# Data Flywheels for LLM Applications
+- Zooming out a bit—I think it is such an exciting time to be building intelligent software applications. Self-​improving applications are actually possible to build right now, and there are still many questions to answer. But I am most excited because the path forward will be collaborative and interdisciplinary—uniting industry practitioners, researchers, and experts across various fields and subareas of computer science—as we chart the future of engineering intelligent software.

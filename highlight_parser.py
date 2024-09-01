@@ -7,9 +7,7 @@ import pathlib
 import datetime
 
 current_directory = pathlib.Path.cwd()
-parsed_books = list(
-    set(file.stem for file in current_directory.glob("**/*.md"))
-)
+parsed_books = list(set(file.stem for file in current_directory.glob("**/*.md")))
 highlight_separator = "=========="
 highlight_json = dict()
 library = []
@@ -39,6 +37,11 @@ class Book:
         clean_title = "".join(
             [c for c in self.title if c.isalpha() or c.isdigit() or c == " "]
         ).rstrip()
+
+        clean_title = clean_title.replace(
+            "annasarchive", ""
+        )  # I will buy them all when I am old
+
         with open(f"books/{clean_title}.md", "w+") as file:
             file.write(f"# {clean_title}")
             file.write("\n")
