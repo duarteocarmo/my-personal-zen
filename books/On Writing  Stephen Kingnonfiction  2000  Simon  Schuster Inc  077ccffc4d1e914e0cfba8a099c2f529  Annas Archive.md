@@ -1,0 +1,2 @@
+# On Writing  Stephen Kingnonfiction  2000  Simon  Schuster Inc  077ccffc4d1e914e0cfba8a099c2f529  Annas Archive
+- the less the bullshit. One notable exception to the bullshit rule is The Elements of Style, by William Strunk Jr. and E. B. White. There is little or no detectable bullshit in that book. (Of course it’s short; at eighty-five pages it’s much shorter than this one.) I’ll tell you right now that every aspiring writer should read The Elements of Style. Rule 17 in the chapter titled Principles of Composition is “Omit needless words.” I will try to do that here.

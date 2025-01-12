@@ -1,0 +1,6 @@
+# MechnerJordanTheMakingofPrinceofPersiaJournals19851993
+- My job now is not just trying to make a fun game, but getting people excited about it, and, to a degree, orchestrating their efforts, without stepping on their toes or impinging on their territory. The world has left me alone for two and a half years, and now it’s bursting in.
+- Alan Weiss dropped by to show me the new hand-held Nintendo “Game Boy” (a play, I guess, on Sony “Walkman.”) They’re licensing a version of Karateka for it.
+- gone. That’s OK. Maybe I’ll clean up the apartment. I feel the need to do something to restore my self-image as a human being (as opposed to a brain, a set of fingers, and the parts necessary to keep them the right distance off the ground to operate the computer).
+- gone. That’s OK. Maybe I’ll clean up the apartment. I feel the need to do something to restore my self-image as a human being (as opposed to a brain, a set of fingers,
+- Now I’m all charged up again and rarin’ to go. Except… everybody’s gone. That’s OK. Maybe I’ll clean up the apartment. I feel the need to do something to restore my self-image as a human being (as opposed to a brain, a set of fingers, and the parts necessary to keep them the right distance off the ground to operate the computer).

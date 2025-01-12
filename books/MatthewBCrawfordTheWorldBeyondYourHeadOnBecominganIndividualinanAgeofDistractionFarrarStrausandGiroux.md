@@ -10,3 +10,4 @@
 - Distractibility might be regarded as the mental equivalent of obesity.
 - But however inept we may be at it, it remains true that we keep trying to “make ourselves, and our proper aspirations, articulate to ourselves,” as the philosopher Talbot Brewer has written.
 - The activities I have in mind are skilled practices.
+- “Cheap men need expensive jigs; expensive men need only the tools in their toolbox.”

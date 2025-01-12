@@ -1,0 +1,2 @@
+# Import AI 375 GPT2 five years later decentralized training new ways of thinking about consciousness and AI
+- I think one of the tricky things about this which I discuss elsewhere in this issue is a lot of the beliefs about AGI are really beliefs about a hypothetical technology that appears at some point in the future, which means some - like the author here - can interpret AGI worries as "not a plausible catastrophic risk scenario, but a dark God vision ginned up by a sect of computer scientists who are heavily overrepresented in the field of machine learning and AI."
