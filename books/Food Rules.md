@@ -1,0 +1,8 @@
+# Food Rules
+- Eat food. Not too much. Mostly plants.
+- Another bit of traditional wisdom with good science behind it: The water in which vegetables are cooked is rich in vitamins and other healthful plant chemicals. Save it for soup or add it to sauces.
+- Wild fish are among the healthiest things you can eat, yet many wild fish stocks are on the verge of collapse because of overfishing. Avoid big fish at the top of the marine food chain—tuna, swordfish, shark—because they’re endangered, and because they often contain high levels of mercury. Fortunately, a few of the most nutritious wild fish species, including mackerel, sardines, and anchovies, are well managed, and in some cases are even abundant. Those oily little fish are particularly good choices. According to a Dutch proverb, “A land with lots of herring can get along with few doctors.”
+- . There is an Indian proverb that gets at this idea: “Drink your food, chew your drink.” In other words, eat slowly enough, and chew thoroughly enough, to liquefy your food, and move your drink around in your mouth to thoroughly taste it before swallowing. The recommendation sounds a bit clinical perhaps,
+- The bigger the portion, the more we will eat—upward of 30 percent more. Food marketers know this, so they supersize our portions as a way to get us to buy more. But we don’t have to supersize portions at home, and shouldn’t. One researcher found that simply switching from a twelve-inch to a ten-inch dinner plate caused people to reduce their consumption by 22 percent.
+- A related adage: “After lunch, sleep awhile; after dinner, walk a mile.”
+- Some people follow a so-called S policy: “no snacks, no seconds, no sweets—except on days that begin with the letter S.”

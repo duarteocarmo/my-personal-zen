@@ -1,0 +1,26 @@
+# The Almanack of Naval Ravikant A Guide to Wealth and Happiness
+- Learn to sell. Learn to build. If you can do both, you will be unstoppable.
+- Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now.
+- Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage.
+- Reading is faster than listening. Doing is faster than watching.
+- You should be too busy to “do coffee” while still keeping an uncluttered calendar.
+- Summary: Productize Yourself
+- Is this authentic to me?
+- The best jobs are neither decreed nor degreed. They are creative expressions of continuous learners in free markets.
+- You do need to be deep in something because otherwise you’ll be a mile wide and an inch deep and you won’t get what you want out of life. You can only achieve mastery in one or two things. It’s usually things you’re obsessed about. [74]
+- When you find the right thing to do, when you find the right people to work with, invest deeply. Sticking with it for decades is really how you make the big returns in your relationships and in your money. So, compound interest is very important. [10]
+- Whenever you can in life, optimize for independence rather than pay. If you have independence and you’re accountable on your output, as opposed to your input—that’s the dream.
+- you want to be part of a great tech company, then you need to be able to SELL or BUILD. If you don’t do either, learn.
+- People will throw infinite leverage behind him because of his judgment. Nobody asks him how hard he works. Nobody asks him when he wakes up or when he goes to sleep. They’re like, “Warren, just do your thing.”
+- Another way of thinking about something is, if you can outsource something or not do something for less than your hourly rate, outsource it or don’t do it. If you can hire someone to do it for less than your hourly rate, hire them. That even includes things like cooking. You may want to eat your healthy home cooked meals, but if you can outsource it, do that instead. [78]
+- Spend more time making the big decisions. There are basically three really big decisions you make in your early life: where you live, who you’re with, and what you do.
+- old boss once warned: “You’ll never be rich since you’re obviously smart, and someone will always offer you a job that’s just good enough.
+- The way to get out of the competition trap is to be authentic, to find the thing you know how to do better than anybody. You know how to do it better because you love it, and no one can compete with you. If you love to do it, be authentic, and then figure out how to map that to what society actually wants. Apply some leverage and put your name on it. You take the risks, but you gain the rewards, have ownership and equity in what you’re doing, and just crank it up.
+- ’s actually really important to have empty space. If you don’t have a day or two every week in your calendar where you’re not always in meetings, and you’re not always busy, then you’re not going to be able to think.
+- s only after you’re bored you have the great ideas. It’s never going to be when you’re stressed, or busy, running around or rushed. Make the time.
+- No exceptions—all screen activities linked to less happiness, all non-screen activities linked to more happiness. [11
+- Most fit and healthy people focus much more on what they eat than how much. Quality control is easier than (and leads to) quantity control. [11]
+- What I did was decide my number one priority in life, above my happiness, above my family, above my work, is my own health. It starts with my physical health. [4] Because my physical health became my number one priority, then I could never say I don’t have time. In the morning, I work out, and however long it takes is how long it takes. I do not start my day until I’ve worked out. I don’t care if the world is imploding and melting down, it can wait another thirty minutes until I’m done working out
+- One of the things Krishnamurti talks about is being in an internal state of revolution. You should always be internally ready for a complete change. Whenever we say we’re going to try to do something or try to form a habit, we’re wimping out.
+- you hurt other people because they have expectations of you, that’s their problem. If they have an agreement with you, it’s your problem. But, if they have an expectation of you, that’s completely their problem. It has nothing to do with you. They’re going to have lots of expectations out of life. The sooner you can dash their expectations, the better. [1
+- Courage isn’t charging into a machine gun nest. Courage is not caring what other people think.
