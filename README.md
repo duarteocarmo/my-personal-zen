@@ -1,6 +1,7 @@
 # my-personal-zen
 
-I no longer update this repository because I've moved from Kindle to Android-based e-readers.
+> [!NOTE]
+> I no longer update this repository because I've moved from Kindle to Android-based e-readers.
 
 A gathering of notes and highlights from my readings.
 
